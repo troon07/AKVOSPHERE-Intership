@@ -1,0 +1,6 @@
+RPi.GPIO
+adafruit-blinka
+adafruit-circuitpython-sht4x
+RPLCD
+smbus2
+w1thermsensor
